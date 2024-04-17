@@ -93,13 +93,7 @@ h1{
 @media (max-width:440px){
   h1{
     font-size: 1.5rem;
-    margin-left : 5dvw;
+    margin-left : 1.25dvw;
   }
 }
 
-@media (max-width:390px){
-  h1{
-    font-size: 1.5rem;
-    margin-left: 1dvw;
-  }
-}
