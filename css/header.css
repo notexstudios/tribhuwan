@@ -234,7 +234,7 @@ header .navbar .nav-special-elements{
   margin:0;
   padding-top:0;
   position: absolute;
-  bottom:200px;
+  bottom:150px;
   animation: slideTop .6s ease forwards;
   
 }
@@ -248,7 +248,7 @@ header .navbar .nav-special-elements a{
 header .navbar .nav-all-elements{
   display:block;
   position: absolute;
-  top:25px;
+  top:10px;
   text-align: center;
   justify-content: center;
 }
