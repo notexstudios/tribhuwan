@@ -16,10 +16,10 @@ main div.main-div{
   height:100vh;
   background-image: url(https://scontent.fpkr2-1.fna.fbcdn.net/v/t39.30808-6/431116565_1116096559729293_3766958340281897895_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_8JlfavHlJgAb6mloMF&_nc_ht=scontent.fpkr2-1.fna&oh=00_AfAKEtN1r3cKcylLwhodaFipViLN9oTbatYS5TCdsIcSLQ&oe=66255D66);
   opacity: 50%;
-  background-size:100%;
+  background-size: 120dvh;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center -120px;
+  background-position: center 60px;
   
 }
 
