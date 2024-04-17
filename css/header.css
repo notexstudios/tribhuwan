@@ -248,7 +248,7 @@ header .navbar .nav-special-elements a{
 header .navbar .nav-all-elements{
   display:block;
   position: absolute;
-  top:50px;
+  top:25px;
   text-align: center;
   justify-content: center;
 }
